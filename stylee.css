@@ -7,7 +7,7 @@
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows:repeat(3,1fr);
-    grid-template-areas:"header header header header" "main main . sidebar" "footer footer footer footer"
+    /* grid-template-areas:"header header header header" "main main . sidebar" "footer footer footer footer" */
     justify-items:start;
      justify-items: center;
     justify-items:end;
